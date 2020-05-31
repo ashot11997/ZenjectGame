@@ -1,0 +1,63 @@
+
+.idea/.idea.Ultimate Hero/.idea/contentModel.xml
+
+.idea/.idea.Ultimate Hero/.idea/indexLayout.xml
+
+.idea/.idea.Ultimate Hero/.idea/modules.xml
+
+.idea/.idea.Ultimate Hero/.idea/vcs.xml
+
+.idea/.idea.Ultimate Hero/.idea/workspace.xml
+
+.idea/.idea.Ultimate Hero/riderModule.iml
+
+Assembly-CSharp-Editor-firstpass.csproj
+
+*.csproj
+
+Library/assetDatabase3
+
+Library/AnnotationManager
+
+Library/AssetImportState
+
+Library/metadata/00/0000000000000000c000000000000000
+
+.idea/.idea.Ultimate Hero/.idea/other.xml
+
+Assets/Editor.meta
+
+Assets/Editor/Tests.meta
+
+Assets/Editor/Tests/PowerBarTest.cs
+
+Assets/Editor/Tests/PowerBarTest.cs.meta
+
+Assets/ZenExamples/SampleGame1 (Beginner)/Media/Imported/SpaceShip/Space_Shooter.fbx
+Assets/Media/Sprites/DOtuZ4wV4AAFBpy.png-large.png
+Assets/Media/Sprites/DOtuZ4wV4AAFBpy.png-large.png.meta
+
+.DS_Store
+.idea/
+.vs/
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
+Library/
+Temp/
+obj/Debug
+obj/
+
+Assets/Plugins/Zenject/OptionalExtras/AutoMocking.zip
+Assets/Plugins/Zenject/OptionalExtras/AutoMocking.zip.meta
+Assets/Plugins/Zenject/OptionalExtras/IntegrationTests.zip
+Assets/Plugins/Zenject/OptionalExtras/IntegrationTests.zip.meta
+
+Assets/Plugins/Zenject/OptionalExtras/SampleGame1 (Beginner).meta
+Assets/Plugins/Zenject/OptionalExtras/SampleGame1 (Beginner)/
+Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced).meta
+Assets/Plugins/Zenject/OptionalExtras/SampleGame2 (Advanced)/
+
+Assets/Plugins/Zenject/OptionalExtras/UnitTests.zip
+Assets/Plugins/Zenject/OptionalExtras/UnitTests.zip.meta
+Assets/Plugins/Zenject/OptionalExtras/ZenjectIntegrationTestFixture.zip
+Assets/Plugins/Zenject/OptionalExtras/ZenjectIntegrationTestFixture.zip.meta
